@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikolayrusev998
-- 👀 I’m interested in Quality assurance.
-- 🌱 I’m currently learning Test Automation
+- 👀 I’m interested in Software testing.
+- 🌱 I’m currently learning Test Automation.
 - 📫 How to reach me https://www.linkedin.com/in/nikolay-rusev-b302aa212/
 
 <!---
